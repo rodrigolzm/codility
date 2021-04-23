@@ -1,0 +1,2 @@
+# codility
+Java lessons resolutions.
